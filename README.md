@@ -1,1 +1,1 @@
-[# Slack_Web_Improvement](https://www.figma.com/proto/rtg81Giaf5l4YpW1QA5FfJ/Project--03(Slack)?page-id=0%3A1&type=design&node-id=231-2547&viewport=2949%2C4546%2C1&t=tKIAIPC8hXU0yRuj-1&scaling=scale-down&mode=design)https://www.figma.com/proto/rtg81Giaf5l4YpW1QA5FfJ/Project--03(Slack)?page-id=0%3A1&type=design&node-id=231-2547&viewport=2949%2C4546%2C1&t=tKIAIPC8hXU0yRuj-1&scaling=scale-down&mode=design
+
